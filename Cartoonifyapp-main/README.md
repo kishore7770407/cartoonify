@@ -14,7 +14,7 @@ Save the cartoonified image.
 Installation
 Clone the repository:
 
-git clone https://github.com/Sivatejvarma/CartoonifyApp.git
+
 Install the required dependencies using pip: pip install -r requirements.txt
 
 **Usage**
